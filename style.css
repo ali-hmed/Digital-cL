@@ -37,15 +37,15 @@ h1 {
     font-size: 18px;
     font-weight: bold;
     margin-top: 14px;
-    color: #bdbdbd;
+    color: #ffffff;
 }
 .hours-min-sec {
-    color: #000000;
+    color: #0d0606cd;
     margin-bottom: 10px;
     font-size: 50px;
 }
 .am-pm {
-    color: #232323;
+    color: #ffffff;
     font-size: 44px;
 }
 @media screen and (max-width: 600px) {

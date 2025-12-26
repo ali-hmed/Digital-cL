@@ -9,9 +9,7 @@ function updateClock(){
 
     document.querySelector('.hours-min-sec').textContent=`${hours}:${minutes}:${seconds} ${ampm}`;
 
-    // document.querySelector('.am-pm').textContent= ampm;
 
-//   document.querySelector('.date').textContent=`${getDay()} ${getMonth()} ${getFullYear()}`;
 
 const option={
     weekday:'long',
